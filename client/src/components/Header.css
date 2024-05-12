@@ -1,0 +1,55 @@
+header {
+  color: #dc3545;
+  padding: 5px;
+}
+
+.navbar-brand {
+  color: #dc3545;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand svg {
+  margin-right: 8px;
+}
+
+.navbar-brand span {
+  font-weight: 600;
+  line-height: 1;
+}
+
+.links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+ul li {
+  margin: 0 20px;
+}
+
+ul li a {
+  color: #dc3545;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #dc3545;
+}
+
+ul li a:visited {
+  color: #dc3545;
+}
+
+ul li a:focus {
+  outline: none;
+}
+
+ul li a img {
+  height: 28px;
+  width: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+}

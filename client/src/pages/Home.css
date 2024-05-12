@@ -1,0 +1,27 @@
+.home-page header {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../images/home-page-header.jpg);
+}
+
+header {
+    background-size: cover;
+    background-position: center;
+}
+
+.blog-section {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../images/blog-section-img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.footer-social-icons li:hover svg {
+    fill: #212529;
+  }
+  
+  .footer-navigation li:hover {
+    color: #212529;
+  }
+  p{
+    text-align: center;
+  }
+
+  
