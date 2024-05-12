@@ -1,0 +1,48 @@
+.unique-class-1{
+    text-align: left;
+  }
+  
+  
+  .unique-class-2{
+    text-align: left;
+  }
+
+  .unique-class-3{
+    text-align: left;
+  }
+  
+  
+  .unique-class-4{
+    text-align: left;
+  }
+
+  .unique-class-5{
+    text-align: left;
+  }
+  table {
+    width: 70%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+th {
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    
+}
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+tr:hover {
+    background-color: #f2f2f2;
+}
+
+.content-type {
+    margin-left: 150px;
+    margin-right: 200px;
+    margin-bottom: 70px;
+}
+ 
+  
