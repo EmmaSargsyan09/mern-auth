@@ -1,0 +1,13 @@
+.about-page header {
+  background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../images/about-page-header.jpg);
+
+}
+
+.unique-class-1{
+  text-align: left;
+}
+
+
+.unique-class-2{
+  text-align: left;
+}
